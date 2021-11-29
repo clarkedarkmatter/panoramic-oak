@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Noah Robinson for Sheriff",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
+        "title": "Noah Robinson for Sheriff",
+        "tagline": "Community Focused Crime Prevention",
+        "profile_img": "images/noah-logo.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
@@ -17,15 +17,21 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "Join",
+                "url": "/join",
+                "style": "link"
+            },
+            {
+                "label": "Posts",
                 "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
+                "label": "Contribute",
+                "url": "/donate/",
                 "style": "link"
             },
+
             {
                 "label": "About",
                 "url": "/about/",
@@ -54,30 +60,16 @@
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "github",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": true
             }
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "Paid for by the committee to elect Noah Robinson for Sheriff – Kathryn Martin Treasurer. Site powered by Dark Matter.;"
     },
-    "domain": "https://panoramic-oak-3fbb6.netlify.app"
+    "domain": "noahrobinsonforsheriff.com"
 }

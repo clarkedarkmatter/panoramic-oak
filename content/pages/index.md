@@ -4,39 +4,38 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
+    title: "Welcome to the campaign page of Noah Robinson for Sheriff."
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Noah is a father, a husband, a 22 year law enforcement veteran, and Candidate for Vanderburgh County Sheriff in 2022.
   - section_id: about
     type: section_content
-    title: About
+    title: Get Involved
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      With a long history of leadership successes and deep ties to his community, Noah supporters know he's the right Sheriff to take the role.
     actions:
-      - label: Contact Me
-        url: /contact
+      - label: More About Noah
+        url: /about
+        style: button
+      - label: Support Team Noah
+        url: /join
         style: button
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: View Posts
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Noah Robinson for Sheriff
+  description: The official landing page of Noah Robinson for Sheriff.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Noah Robinson for Sheriff
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
@@ -56,3 +55,4 @@ seo:
       relativeUrl: true
 layout: advanced
 ---
+# test

@@ -1,17 +1,17 @@
 ---
-title: Blog
+title: On the Campaign Trail
 seo:
-  title: Blog
-  description: This is the blog page
+  title: Posts
+  description: This is the Campaign posts page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Posts
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: This is the Posts page
       keyName: property
     - name: 'og:image'
       value: images/1.jpg

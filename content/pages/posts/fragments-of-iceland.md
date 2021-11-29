@@ -1,11 +1,11 @@
 ---
-title: Fragments of Iceland
+title: Noah Robinson Announces Candidacy for Sheriff
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
   making it the most sparsely populated country in Europe.
 date: '2019-03-27'
-thumb_img_path: images/7.jpg
+thumb_img_path: images/noah-announce.JPG
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses

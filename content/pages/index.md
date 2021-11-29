@@ -4,19 +4,19 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Welcome to the campaign page of Noah Robinson for Sheriff."
+    title: "Vote Noah Robinson for Vanderburgh County Sheriff"
     content: >-
-      Noah is a father, a husband, a 22 year law enforcement veteran, and Candidate for Vanderburgh County Sheriff in 2022.
+      Noah is a father, a husband, a 22 year law enforcement veteran, Candidate for Vanderburgh County Sheriff and most importantly, has committed his life to the safety of the community.
   - section_id: about
     type: section_content
     title: Get Involved
     content: >-
-      With a long history of leadership successes and deep ties to his community, Noah supporters know he's the right Sheriff to take the role.
+      With a long history of leadership successes and deep ties to his community, Noah supporters know he's the right guy for the role. See Noah's history or join the team below.
     actions:
-      - label: More About Noah
+      - label: Learn More About Noah
         url: /about
         style: button
-      - label: Support Team Noah
+      - label: I Support Team Noah
         url: /join
         style: button
   - section_id: recent-posts

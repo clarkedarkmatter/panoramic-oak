@@ -37,12 +37,12 @@ layout: page
 ---
 # Donate
 ---
-- ### Use ActBlue  - a fundraising platform for political candidates.
+### Use ActBlue  - a fundraising platform for political candidates.
 ***You can send a one-time donation, or set up recurring monthly support until Noah wins!***
 
 [Click here to donate directly to the campaign using ActBlue.](https://secure.actblue.com/donate/noah-robinson-for-sheriff-1)
 
-- ### Mail a contribution - the most direct way to support Noah's campaign.
+### Mail a contribution - the most direct way to support Noah's campaign.
 ***Make a check payable to:***
 
 Noah Robinson for Sheriff<br>

@@ -1,30 +1,11 @@
 ---
-title: Home
-hide_title: true
+title: Events
+hide_title: false
 sections:
-  - section_id: hero
-    type: section_hero
-    image: /images/noah-dog.jpg
-    title: "Meet Noah Robinson"
-    content: >-
-      A 22 year law enforcement veteran and candidate for Vanderburgh County Sheriff in 2022.
-  - section_id: about
-    type: section_content
-    title: About
-    content: >-
-      With a long history of leadership successes and deep ties to his community, Noah Robinson will lead the Sheriff's department and serve the citizens of this county better than anyone else.
-    image: /images/noah-career.jpg
-    actions:
-      - label: Learn More About Noah
-        url: /about
-        style: button
-      - label: Join Team Noah
-        url: /join
-        style: button
-  - section_id: recent-posts
+  - section_id: event-posts
     type: section_posts
-    title: Recent Posts
-    posts_number: 2
+    title: Upcoming Events
+    posts_number: 3
     actions:
       - label: View Posts
         url: blog/index.html
@@ -67,5 +48,5 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
-layout: advanced
+layout: event
 ---

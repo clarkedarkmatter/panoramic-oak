@@ -48,5 +48,10 @@ layout: page
 Noah Robinson for Sheriff<br>
 P.O. Box 15016<br>
 Evansville, IN 47716<br>
+
+[Questions? Contact the Campaign](/contact-noah)
+
 ---
 # [Visit the Join Page -->](/join)
+---
+Donations to political organizations or candidates are not tax deductible.

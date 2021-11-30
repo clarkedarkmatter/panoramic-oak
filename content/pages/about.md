@@ -78,11 +78,11 @@ In 2011 Noah Robinson drafted “Duty to Intervene” language for the Sheriff�
 
 In 2010 Noah Robinson created the Sheriff’s Office standard operating guideline for DUI investigation. The fifteen page document became the go to resource to help deputies navigate the complexities of fatal and serious injury crash investigation involving blood-alcohol evidence. The guideline has been revised many times and shared all over the State of Indiana.
 
-Noah is an Indiana Law Enforcement Academy certified instructor and taught DUI investigation for over ten years.
+>Noah is an Indiana Law Enforcement Academy certified instructor and taught DUI investigation for over ten years.
 
 In 2015 Noah Robinson created a system by which infraction and misdemeanor court dates are pre-assigned for every calendar day and redesigned the local Uniform Traffic Ticket. The enhancements reduced errors and virtually eliminated incorrect court dates being assigned by sheriff’s deputies and Evansville police officers.
 
-Robinson was one of the driving forces behind the creation of the Vanderburgh County Crime Victims Resources website, which went online in September of 2018.
+***Robinson was one of the driving forces behind the creation of the Vanderburgh County Crime Victims Resources website, which went online in September of 2018.***
 
 ![Noah Career](/images/noah-bike.jpg)
 
@@ -98,7 +98,7 @@ In 2019 Noah Robinson oversaw the Sheriff’s Office switch over to a new police
 
 In early 2018, Noah Robinson was tasked by the Sheriff to create the operational framework necessary for the Sheriff’s Office to begin patrolling the campus of the University of Southern Indiana. Robinson created a budget, shift schedule, radio identification assignments and coordinated revisions to the final memorandum of understanding with the University.
 
-Between 2013 and 2018, Noah Robinson wrote dozens of grant applications and obtained over one million dollars in state, federal and private grant funding which was used to pay for traffic safety enforcement, safety education, information technology, equipment and vehicles.
+***Between 2013 and 2018, Noah Robinson wrote dozens of grant applications and obtained over one million dollars in state, federal and private grant funding which was used to pay for traffic safety enforcement, safety education, information technology, equipment and vehicles.***
 
 [Back to Top](#top)
 
@@ -110,7 +110,7 @@ Between 2013 and 2018, Noah Robinson wrote dozens of grant applications and obta
 
 Noah Robinson received an award for his on-duty response to the January 02, 2000 tornado that struck the City of Owensboro.
 
-In February of 2004, Robinson received an award from the Veterans of Foreign Wars of the United States for his actions on January 24, 2004. Robinson entered a frozen lake to check for occupants in a partially submerged vehicle.
+>In February of 2004, Robinson received an award from the Veterans of Foreign Wars of the United States for his actions on January 24, 2004. Robinson entered a frozen lake to check for occupants in a partially submerged vehicle.
 
 In March of 2007, Robinson received a Certificate of Appreciation from the Vanderburgh Humane Society for assisting animals in danger during a house fire.
 
@@ -136,7 +136,7 @@ Noah’s parents, Carol and Clayton Robinson, both graduated from Harrison High 
 
 Noah’s grandfather Eugene “Gene” Robinson was a Bosse High School graduate, US Army Air Force veteran and retired from the Evansville Vanderburgh School Corporation. Gene and Noah’s grandmother Carlyn attended Trinity United Methodist Church.
 
-Noah’s family has strong Evansville roots. Both his grandparents were lifelong east side Evansville residents and members of Methodist Temple UMC. George was a WWII pacific theatre US Army combat veteran and worked for over 40 years at Southern Indiana Gas and Electric.
+>Noah’s family has strong Evansville roots. Both his grandparents were lifelong east side Evansville residents and members of Methodist Temple UMC. George was a WWII pacific theatre US Army combat veteran and worked for over 40 years at Southern Indiana Gas and Electric.
 
 [Back to Top](#top)
 
@@ -146,7 +146,7 @@ Noah’s family has strong Evansville roots. Both his grandparents were lifelong
 
 ---
 
-In 1998 Robinson was admitted to the Golden Key National Honor Society, an organization which extends membership invitations to students in the upper 15% of their class. In 1999, he was admitted to the Alpha Kappa Delta International Sociology Honor Society.
+In 1998 Robinson was admitted to the Golden Key National Honor Society, an organization which extends membership invitations to students in the upper 15% of their class. ***In 1999, he was admitted to the Alpha Kappa Delta International Sociology Honor Society.***
 
 Noah graduated from the Kentucky Department of Criminal Justice Training Center in Richmond, KY. He later received certification from the Indiana Law Enforcement Academy.
 
@@ -155,3 +155,5 @@ Noah Robinson attended Castle High School and the University of Southern Indiana
 ***[Join Noah's campaign today by clicking here](/join)***
 
 [Back to Top](#top)
+
+# [--> View Campaign Posts](/blog/)

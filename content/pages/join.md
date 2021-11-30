@@ -1,7 +1,7 @@
 ---
 title: Join the Campaign
 subtitle: >-
-  We're building a huge team to help make Vanderburgh County a safer place to live. Host a yard sign or get a bumper sticker to show your support! Add your name to growing list today.
+  We're building a team to help make Vanderburgh County a safer place to live. Add your name to the list.
 seo:
   title: Join the Campaign
   description: A landing page for those seeking to get involved.

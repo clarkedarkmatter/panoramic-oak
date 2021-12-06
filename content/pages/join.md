@@ -6,28 +6,27 @@ seo:
   title: Join the Campaign
   description: A landing page for those seeking to get involved.
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Join Team Noah
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: >-
         A join page for Noah Robinson's campaign for Sheriff.
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: https://noah4sheriff.b-cdn.net/images/noah-campaign.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Theme Style Guide
-    - name: 'twitter:description'
+    - name: twitter:description
       value: >-
-
-    - name: 'twitter:image'
+    - name: twitter:image
       value: https://noah4sheriff.b-cdn.net/images/noah-campaign.jpg
       relativeUrl: true
 layout: page

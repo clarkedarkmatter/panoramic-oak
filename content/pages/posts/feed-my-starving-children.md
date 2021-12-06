@@ -15,6 +15,9 @@ seo:
     - name: 'og:type'
       value: article
       keyName: property
+    - name: 'og:url'
+      value: www.noahrobinsonforsheriff.com
+      keyName: property
     - name: 'og:title'
       value: Noah helps prep meals for Feed My Starving Children
       keyName: property

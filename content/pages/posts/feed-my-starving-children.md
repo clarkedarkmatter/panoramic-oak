@@ -25,7 +25,6 @@ seo:
     - name: 'og:image'
       value: https://noah4sheriff.b-cdn.net/images/noah-feed-2.jpg
       keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
@@ -35,7 +34,6 @@ seo:
         Our session this afternoon produced enough meals to feed 79 children every day for a year!
     - name: 'twitter:image'
       value: https://noah4sheriff.b-cdn.net/images/noah-feed-2.jpg
-      relativeUrl: true
 layout: post
 ---
 

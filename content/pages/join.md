@@ -17,7 +17,7 @@ seo:
         A join page for Noah Robinson's campaign for Sheriff.
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: https://noah4sheriff.b-cdn.net/images/noah-campaign.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -28,7 +28,7 @@ seo:
       value: >-
 
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: https://noah4sheriff.b-cdn.net/images/noah-campaign.jpg
       relativeUrl: true
 layout: page
 ---

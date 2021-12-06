@@ -14,7 +14,7 @@ seo:
       value: Platform
       keyName: property
     - name: 'og:description'
-      value: This is the Platform page for Noah Robinson for Sheriff
+      value: Noah Robinson has 23 years of law enforcement experience and served as the Chief Deputy Sheriff. He knows what it takes to successfully run a Sheriff’s Office, and his platform reflects this experience and expertise.
       keyName: property
     - name: 'og:image'
       value: https://noah4sheriff.b-cdn.net/images/about.jpg

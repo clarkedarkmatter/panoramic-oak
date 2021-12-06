@@ -41,7 +41,7 @@ sections:
       - label: Contact
         url: /contact-noah
         style: button
-    image: https://noah4sheriff.b-cdn.net/images/noah-bench.jpg
+    image: https://noah4sheriff.b-cdn.net/images/noah-visits.jpg
 seo:
   title: Noah Robinson for Sheriff
   description: The official landing page of Noah Robinson for Sheriff.
@@ -50,23 +50,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Noah Robinson for Sheriff
+      value: Noah Robinson for Sheriff - Home
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Landing Page of Noah Robinson for Sheriff 2022
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: https://noah4sheriff.b-cdn.net/images/noah-visits.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Noah Robinson for Sheriff - Home
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Landing Page of Noah Robinson for Sheriff 2022
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: https://noah4sheriff.b-cdn.net/images/noah-visits.jpg
       relativeUrl: true
 layout: advanced
 ---

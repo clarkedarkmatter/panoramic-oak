@@ -19,7 +19,6 @@ seo:
     - name: 'og:image'
       value: https://noah4sheriff.b-cdn.net/images/about.jpg
       keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'

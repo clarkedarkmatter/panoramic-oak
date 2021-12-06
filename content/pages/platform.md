@@ -1,6 +1,6 @@
 ---
-title: Platform
-subtitle: Noah Robinson has 23 years of law enforcement experience and has served as a field training officer, law enforcement instructor, internal affairs investigator, public information officer, grant writer, project manager, and human resources director.
+title: Noah's Platform
+subtitle: Noah Robinson has 23 years of law enforcement experience and has served as a field training officer, law enforcement instructor, internal affairs investigator, public information officer, grant writer, project manager, and human resources director.<br><br>Noah Robinson also served as the Chief Deputy Sheriff and second in command of the Sheriff's Office. Noah knows what it takes to successfully run a Sheriff’s Office, and his platform reflects his experience and expertise.
 img_path: #https://noah4sheriff.b-cdn.net/images/noah-dog.jpg
 img_alt: Noah Robinson
 seo:
@@ -14,7 +14,7 @@ seo:
       value: Platform
       keyName: property
     - name: og:description
-      value: Noah Robinson has 23 years of law enforcement experience and has served as a field training officer, law enforcement instructor, internal affairs investigator, public information officer, grant writer, project manager, and human resources director.
+      value: Noah Robinson has 23 years of law enforcement experience and has served as a field training officer, law enforcement instructor, internal affairs investigator, public information officer, grant writer, project manager, and human resources director. Noah Robinson also served as the Chief Deputy Sheriff and second in command of the Sheriff's Office. Noah knows what it takes to successfully run a Sheriff’s Office, and his platform reflects his experience and expertise.
       keyName: property
     - name: og:image
       value: https://noah4sheriff.b-cdn.net/images/noah-career.jpg
@@ -34,8 +34,6 @@ seo:
 layout: page
 ---
 
-Noah Robinson also served as the Chief Deputy Sheriff and second in command of the Sheriff's Office. Noah knows what it takes to successfully run a Sheriff’s Office, and his platform reflects his experience and expertise.
-
 ![Noah Career](https://noah4sheriff.b-cdn.net/images/noah-career.jpg)
 
 ## Noah will Protect our Neighborhoods and Businesses.
@@ -54,7 +52,9 @@ School Safety is more than just having a police officer present in a school. Noa
 
 ---
 
-Our sheriff's deputies and police officers work hard to take criminals off the street and keep our community safe, but once someone is in jail, we need to leave them better than we found them. Noah will implement an aggressive jail based substance abuse treatment program combined with life skills and vocational job training. When offenders rejoin our community, they must have the prospect of employment, stable housing, and a drug free routine in order to interrupt the cycle of criminality.
+Our sheriff's deputies and police officers work hard to take criminals off the street and keep our community safe, but once someone is in jail, we need to leave them better than we found them. Noah will implement an aggressive jail-based, substance-abuse and mental health treatment program combined with life skills and vocational job training.
+
+When offenders rejoin our community, they must have the prospect of employment, stable housing, and a drug free routine in order to interrupt the cycle of criminality. Noah will not advocate for any jail expansion that is not specifically designed and purpose built to treat our inmates' mental health and substance abuse issues.
 
 ## Noah will Root out Violent Criminals and Drug Dealers while Treating the Addict.
 

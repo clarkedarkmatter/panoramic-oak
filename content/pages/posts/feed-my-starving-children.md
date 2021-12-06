@@ -13,7 +13,7 @@ seo:
     Our session this afternoon produced enough meals to feed 79 children every day for a year!
   extra:
     - name: 'og:type'
-      value: post
+      value: article
       keyName: property
     - name: 'og:title'
       value: Noah helps prep meals for Feed My Starving Children

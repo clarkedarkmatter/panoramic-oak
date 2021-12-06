@@ -157,3 +157,4 @@ Noah Robinson attended Castle High School and the University of Southern Indiana
 [Back to Top](#top)
 
 # [--> View Campaign Posts](/blog/)
+# [--> View Noah's Platform](/platform/)

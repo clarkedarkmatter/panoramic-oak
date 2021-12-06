@@ -13,7 +13,7 @@ sections:
     title: About
     content: >-
       With a long history of leadership successes and deep ties to his community, Noah Robinson will lead the Sheriff's department and serve the citizens of this county better than anyone else.
-    image: /images/noah-career.jpg
+    image: https://noah4sheriff.b-cdn.net/images/noah-career.jpg
     actions:
       - label: Learn More About Noah
         url: /about
@@ -41,6 +41,7 @@ sections:
       - label: Contact
         url: /contact-noah
         style: button
+    image: https://noah4sheriff.b-cdn.net/images/noah-bench.jpg
 seo:
   title: Noah Robinson for Sheriff
   description: The official landing page of Noah Robinson for Sheriff.

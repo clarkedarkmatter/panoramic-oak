@@ -17,10 +17,10 @@ seo:
       value: Noah Robinson has 23 years of law enforcement experience and served as the Chief Deputy Sheriff. He knows what it takes to successfully run a Sheriff’s Office, and his platform reflects this experience and expertise.
       keyName: property
     - name: og:image
-      value: https://noah4sheriff.b-cdn.net/images/career.jpg
+      value: https://noah4sheriff.b-cdn.net/images/noah-career.jpg
       keyName: property
     - name: og:image:secure_url
-      value: https://noah4sheriff.b-cdn.net/images/career.jpg
+      value: https://noah4sheriff.b-cdn.net/images/noah-career.jpg
       keyName: property
     - name: twitter:card
       value: summary_large_image

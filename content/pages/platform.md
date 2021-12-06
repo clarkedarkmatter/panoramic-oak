@@ -8,7 +8,7 @@ seo:
   description: This is the Platform page
   extra:
     - name: 'og:type'
-      value: website
+      value: page
       keyName: property
     - name: 'og:title'
       value: Platform

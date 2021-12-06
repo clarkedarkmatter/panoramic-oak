@@ -17,6 +17,11 @@
                 "style": "link"
             },
             {
+                "label": "Platform",
+                "url": "/platform",
+                "style": "link"
+            },
+            {
                 "label": "Join",
                 "url": "/join",
                 "style": "link"

@@ -17,7 +17,7 @@ seo:
       value: This is the about me page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: https://noah4sheriff.b-cdn.net/images/about.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about me page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: https://noah4sheriff.b-cdn.net/images/about.jpg
       relativeUrl: true
 layout: page
 ---
@@ -43,7 +43,7 @@ layout: page
 
 Noah Robinson joined the Owensboro Police Department in 1999 and served the City of Owensboro until his appointment as a deputy with the Vanderburgh County Sheriff’s Office in March of 2001.
 
-![Noah Career](/images/noah-career.jpg)
+![Noah Career](https://noah4sheriff.b-cdn.net/images/noah-career.jpg)
 
 In 2009, Noah Robinson was promoted to the rank of sergeant and spent the next five years assigned to the Professional Standards Unit, where he developed policy and procedure for the agency as well as conducted internal investigations.
 
@@ -55,7 +55,7 @@ Noah Robinson was promoted to the rank of lieutenant in 2014, assigned to headqu
 
 In 2018 Noah Robinson was promoted to the rank of major and served as the executive commander over the Administration Division.
 
-![Noah on Horse](/images/noah-horse.jpg)
+![Noah on Horse](https://noah4sheriff.b-cdn.net/images/noah-horse.jpg)
 
 In 2019 Noah Robinson was promoted to the rank of colonel and named Chief Deputy Sheriff and second in command of the agency.
 
@@ -84,7 +84,7 @@ In 2015 Noah Robinson created a system by which infraction and misdemeanor court
 
 ***Robinson was one of the driving forces behind the creation of the Vanderburgh County Crime Victims Resources website, which went online in September of 2018.***
 
-![Noah Career](/images/noah-bike.jpg)
+![Noah Career](https://noah4sheriff.b-cdn.net/images/noah-bike.jpg)
 
 In 2016, Noah Robinson unveiled the Vanderburgh County Sheriff's Office Bicycle Patrol program. Noah created this unique program, which was equally focused on education and enforcement. The program was so well received, it was later adopted by the Indiana Criminal Justice Institute as the model for the entire state.
 
@@ -130,7 +130,7 @@ In March of 2021 Robinson received a Leadership Everyone award for his role in t
 
 Noah and his wife Janie have lived on the east side of Evansville for over twenty years. Noah graduated from the University of Southern Indiana and Janie graduated from Ivy Tech Community College Evansville. Their two daughters graduated from Signature School and later the University of Southern Indiana and the University of Evansville. Their son attends Plaza Park Middle School.
 
-![Noah Family](/images/noah-family.jpg)
+![Noah Family](https://noah4sheriff.b-cdn.net/images/noah-family.jpg)
 
 Noah’s parents, Carol and Clayton Robinson, both graduated from Harrison High School. Clayton is an Air Force veteran, graduate of Indiana State University, and retired from Rexam Closures in Evansville. Carol is a University of Evansville graduate and retired from Madden Co in Evansville.
 

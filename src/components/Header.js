@@ -117,6 +117,7 @@ export default class Header extends React.Component {
 
         return (
             <header id="masthead" className={`site-header ${headerBackground}`}>
+              <link rel="shortcut icon" href="/images/noah-logo.png" />
                 <div className="site-header-wrap">
                     <div className="site-header-inside">
                         <div className="site-branding">

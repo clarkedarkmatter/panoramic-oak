@@ -5,7 +5,7 @@ img_path: #https://noah4sheriff.b-cdn.net/images/noah-dog.jpg
 img_alt: Noah Robinson
 seo:
   title: Platform
-  description: This is the Platform page
+  description: Read about Noah Robinson's campaign platform. 
   extra:
     - name: og:type
       value: article

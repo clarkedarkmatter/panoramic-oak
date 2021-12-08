@@ -49,8 +49,6 @@ In 2009, Noah Robinson was promoted to the rank of sergeant and spent the next f
 
 Noah Robinson became a field training deputy in 2003 and spent eight years assigned to Motor Patrol.
 
-***[Join Noah's campaign today by clicking here](/join)***
-
 Noah Robinson was promoted to the rank of lieutenant in 2014, assigned to headquarters, and placed in charge of information technology, public information, and grants.
 
 In 2018 Noah Robinson was promoted to the rank of major and served as the executive commander over the Administration Division.
@@ -89,8 +87,6 @@ In 2015 Noah Robinson created a system by which infraction and misdemeanor court
 In 2016, Noah Robinson unveiled the Vanderburgh County Sheriff's Office Bicycle Patrol program. Noah created this unique program, which was equally focused on education and enforcement. The program was so well received, it was later adopted by the Indiana Criminal Justice Institute as the model for the entire state.
 
 Also in 2016, Noah Robinson created an information sharing platform that linked Circuit and Superior Court Probation, State Parole and local law enforcement. The ambitious program provided deputies and officers with information concerning court supervised offenders, while also allowing deputies and officers to easily notify probation and parole regarding any contact they had with someone under supervision.
-
-***[Join Noah's campaign today by clicking here](/join)***
 
 In 2017, Noah Robinson started the Vanderburgh County Sheriff’s Office Next Door page. During his time as public information deputy, Noah kept the page up to date with unique content tailored specifically to the county’s many neighborhoods.
 
@@ -151,8 +147,6 @@ In 1998 Robinson was admitted to the Golden Key National Honor Society, an organ
 Noah graduated from the Kentucky Department of Criminal Justice Training Center in Richmond, KY. He later received certification from the Indiana Law Enforcement Academy.
 
 Noah Robinson attended Castle High School and the University of Southern Indiana. Noah received an Associate's Degree in Social Science and a Bachelor’s Degree in Sociology with an emphasis in Criminal Justice Studies from the University of Southern Indiana.
-
-***[Join Noah's campaign today by clicking here](/join)***
 
 [Back to Top](#top)
 

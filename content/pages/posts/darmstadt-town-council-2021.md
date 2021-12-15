@@ -26,7 +26,7 @@ seo:
         Post meeting gathering at the Darmstadt, Indiana Town Council. Great talking to people who believe in Community Based Policing!
       keyName: property
     - name: 'og:image'
-      value: https://noah4sheriff.b-cdn.net/images/church.jpg
+      value: /images/darmstadt-town.jpg
       keyName: property
 layout: post
 ---

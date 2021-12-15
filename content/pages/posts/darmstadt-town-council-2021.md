@@ -1,5 +1,5 @@
 ---
-title: Noah meets with Darmstadt Town Council to Talk Community Based Policing
+title:  Noah Talks About His Plans for Community Based Policing in Darmstadt
 excerpt: >-
   Post meeting gathering at the Darmstadt, Indiana Town Council. Great talking to people who believe in Community Based Policing!
 date: '2021-12-14'
@@ -8,7 +8,7 @@ thumb_img_alt: Noah Neighborhood Policing
 content_img_path: /images/darmstadt-town.jpg
 content_img_alt: /images/darmstadt-town.jpg
 seo:
-  title: Noah meets with Darmstadt Town Council to Talk Community Based Policing
+  title:  Noah Talks About His Plans for Community Based Policing in Darmstadt
   description: >-
     Post meeting gathering at the Darmstadt, Indiana Town Council. Great talking to people who believe in Community Based Policing!
   extra:
@@ -19,7 +19,7 @@ seo:
       value: www.noahrobinsonforsheriff.com
       keyName: property
     - name: 'og:title'
-      value:  Noah meets with Darmstadt Town Council to Talk Community Based Policing
+      value:   Noah Talks About His Plans for Community Based Policing in Darmstadt
       keyName: property
     - name: 'og:description'
       value: >-

@@ -3,10 +3,10 @@ title:  Noah Talks About His Plans for Community Based Policing in Darmstadt
 excerpt: >-
   Post meeting gathering at the Darmstadt, Indiana Town Council. Great talking to people who believe in Community Based Policing!
 date: '2021-12-14'
-thumb_img_path: /images/darmstadt-town.jpg
+thumb_img_path: https://noah4sheriff.b-cdn.net/images/darmstadt-town.jpg
 thumb_img_alt: Noah Neighborhood Policing
-content_img_path: /images/darmstadt-town.jpg
-content_img_alt: /images/darmstadt-town.jpg
+content_img_path: https://noah4sheriff.b-cdn.net/images/darmstadt-town.jpg
+content_img_alt: Noah Neighborhood Policing
 seo:
   title:  Noah Talks About His Plans for Community Based Policing in Darmstadt
   description: >-
@@ -26,7 +26,7 @@ seo:
         Post meeting gathering at the Darmstadt, Indiana Town Council. Great talking to people who believe in Community Based Policing!
       keyName: property
     - name: 'og:image'
-      value: /images/darmstadt-town.jpg
+      value: https://noah4sheriff.b-cdn.net/images/darmstadt-town.jpg
       keyName: property
 layout: post
 ---

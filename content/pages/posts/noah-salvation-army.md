@@ -40,6 +40,8 @@ layout: post
 
 ![noah-salvation-picture](https://noah4sheriff.b-cdn.net/images/noah-salvation-3.jpg)
 
+## Donate to the Salvation Army [here.](https://give.salvationarmyusa.org/give/164006/#!/donation/checkout)
+
 Interested in joining Noah's campaign? ***[Click Here](/join)***
 
 # [--> Read Last Post](/posts/darmstadt-town-council-2021)
